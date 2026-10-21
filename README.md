@@ -22,6 +22,24 @@ Built frontend interfaces for a multi-tenant VoIP/SIP platform, including browse
 
 [Project notes](case-studies/horizon-contact-center.md)
 
+### Horizon clinics platform
+
+Built frontend workflows for a multi-tenant clinics platform, including doctor and staff management, appointment details, patient interfaces, and authentication validation.
+
+[Project notes and contribution references](case-studies/horizon-clinics.md)
+
+### Horizon Technology website
+
+Sole frontend developer for an Arabic/English Next.js company website, with localized SEO, a shared design system, and multi-step enquiry forms connected to a separate backend.
+
+[Project notes and contribution references](case-studies/horizon-company-website.md)
+
+### BlueBus / TripTech driver app
+
+Developed an Expo/React Native driver app used in daily operations and distributed directly as an Android APK. Selected contribution references cover login, persisted authentication state, navigation, and the API layer.
+
+[Project notes and contribution references](case-studies/bluebus-driver-app.md)
+
 ### Nessba Real Estate
 
 Developed a Next.js property platform with advanced search and filtering, performance improvements, and a management dashboard.
@@ -37,5 +55,7 @@ Developed a Next.js property platform with advanced search and filtering, perfor
 - **Other:** Git, Vite, React Router, i18next, SIP.js, WebRTC, WebSockets
 
 ## Contact
+
+Selected project notes include Git contribution references. Company repositories remain private, so those links require authorized access. Some commits record AI assistants as co-authors; the notes preserve that attribution where applicable.
 
 [LinkedIn](https://www.linkedin.com/in/hassanhosny) · [Email](mailto:hassanhosnydev@gmail.com)
