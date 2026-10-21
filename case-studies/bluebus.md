@@ -23,4 +23,6 @@ On mobile, I developed and deployed the React Native application for Android and
 
 [Public website](https://bluebus.com.eg)
 
+The passenger app has its own [case study with Google Play, App Store, and contribution references](bluebus-passenger-app.md). The internal [driver app](bluebus-driver-app.md) is a separate application distributed directly as an APK.
+
 The production source code is held in private company repositories. This page describes my contribution; it does not include company source code or customer data.
