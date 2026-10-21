@@ -16,6 +16,12 @@ Worked on the public website, administrative platforms, operations dashboard, an
 
 [Website](https://bluebus.com.eg) · [Project notes](case-studies/bluebus.md)
 
+### BlueBus passenger app (Android and iOS)
+
+Developed and maintained the React Native passenger booking app, including Arabic/English interfaces and ticket-management flows, and worked on Android and iOS releases.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.nativeapp.bluebusmobile) · [App Store](https://apps.apple.com/eg/app/blue-bus/id6670766963) · [Project notes and contribution references](case-studies/bluebus-passenger-app.md)
+
 ### Horizon Contact Center
 
 Built frontend interfaces for a multi-tenant VoIP/SIP platform, including browser-based calling with SIP.js and WebRTC, real-time call state, a visual IVR builder, and agent/admin workspaces.
